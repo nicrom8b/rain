@@ -1,0 +1,62 @@
+2025-04-14 21:27:27,718 - INFO - Buscando PDFs en: /Users/jriera/Documents/unju/rain/tp1/pdf
+2025-04-14 21:27:27,718 - INFO - Los logs se guardarán en: /Users/jriera/Documents/unju/rain/tp1/fichero-invertido-frecuencia/processing_logs.txt
+2025-04-14 21:27:27,718 - INFO - El índice invertido se guardará en: /Users/jriera/Documents/unju/rain/tp1/fichero-invertido-frecuencia/inverted_index.json
+2025-04-14 21:27:27,718 - INFO - Procesando archivo: Accesibilidad-web.pdf
+2025-04-14 21:27:27,718 - INFO - Procesando archivo: Accesibilidad-web.pdf
+2025-04-14 21:27:27,722 - INFO -   - Total de páginas: 10
+2025-04-14 21:27:27,898 - INFO -   - Procesadas 10/10 páginas
+2025-04-14 21:27:27,899 - INFO -   - Completado: 10 páginas procesadas
+2025-04-14 21:27:27,899 - INFO - Obteniendo stopwords desde GitHub...
+2025-04-14 21:27:28,350 - INFO - Se obtuvieron 608 stopwords.
+2025-04-14 21:27:28,352 - INFO - Procesando archivo: Algoritmo-aprendizaje-automatizado.pdf
+2025-04-14 21:27:28,352 - INFO - Procesando archivo: Algoritmo-aprendizaje-automatizado.pdf
+2025-04-14 21:27:28,356 - INFO -   - Total de páginas: 5
+2025-04-14 21:27:28,474 - INFO -   - Completado: 5 páginas procesadas
+2025-04-14 21:27:28,474 - INFO - Procesando archivo: Algoritmo-vinculacion-relatos-denuncias.pdf
+2025-04-14 21:27:28,474 - INFO - Procesando archivo: Algoritmo-vinculacion-relatos-denuncias.pdf
+2025-04-14 21:27:28,478 - INFO -   - Total de páginas: 10
+2025-04-14 21:27:28,646 - INFO -   - Procesadas 10/10 páginas
+2025-04-14 21:27:28,646 - INFO -   - Completado: 10 páginas procesadas
+2025-04-14 21:27:28,647 - INFO - Procesando archivo: Analisis-datos-big-data.pdf
+2025-04-14 21:27:28,647 - INFO - Procesando archivo: Analisis-datos-big-data.pdf
+2025-04-14 21:27:28,649 - INFO -   - Total de páginas: 6
+2025-04-14 21:27:28,759 - INFO -   - Completado: 6 páginas procesadas
+2025-04-14 21:27:28,760 - INFO - Procesando archivo: Analisis-sericio-urgencias.pdf
+2025-04-14 21:27:28,760 - INFO - Procesando archivo: Analisis-sericio-urgencias.pdf
+2025-04-14 21:27:28,766 - INFO -   - Total de páginas: 10
+2025-04-14 21:27:28,917 - INFO -   - Procesadas 10/10 páginas
+2025-04-14 21:27:28,917 - INFO -   - Completado: 10 páginas procesadas
+2025-04-14 21:27:28,927 - INFO - Índice invertido guardado en: /Users/jriera/Documents/unju/rain/tp1/fichero-invertido-frecuencia/inverted_index.json
+2025-04-14 21:27:28,927 - INFO - Proceso completado. Índice guardado en /Users/jriera/Documents/unju/rain/tp1/fichero-invertido-frecuencia/inverted_index.json
+2025-04-14 21:27:28,927 - INFO - Logs guardados en /Users/jriera/Documents/unju/rain/tp1/fichero-invertido-frecuencia/processing_logs.txt
+2025-04-14 21:29:03,403 - INFO - Buscando PDFs en: /Users/jriera/Documents/unju/rain/tp1/pdf
+2025-04-14 21:29:03,403 - INFO - Los logs se guardarán en: /Users/jriera/Documents/unju/rain/tp1/fichero-invertido-frecuencia/processing_logs.txt
+2025-04-14 21:29:03,403 - INFO - El índice invertido se guardará en: /Users/jriera/Documents/unju/rain/tp1/fichero-invertido-frecuencia/inverted_index.json
+2025-04-14 21:29:03,403 - INFO - Procesando archivo: Accesibilidad-web.pdf
+2025-04-14 21:29:03,403 - INFO - Procesando archivo: Accesibilidad-web.pdf
+2025-04-14 21:29:03,405 - INFO -   - Total de páginas: 10
+2025-04-14 21:29:03,574 - INFO -   - Procesadas 10/10 páginas
+2025-04-14 21:29:03,574 - INFO -   - Completado: 10 páginas procesadas
+2025-04-14 21:29:03,574 - INFO - Obteniendo stopwords desde GitHub...
+2025-04-14 21:29:03,713 - INFO - Se obtuvieron 608 stopwords.
+2025-04-14 21:29:03,716 - INFO - Procesando archivo: Algoritmo-aprendizaje-automatizado.pdf
+2025-04-14 21:29:03,716 - INFO - Procesando archivo: Algoritmo-aprendizaje-automatizado.pdf
+2025-04-14 21:29:03,719 - INFO -   - Total de páginas: 5
+2025-04-14 21:29:03,837 - INFO -   - Completado: 5 páginas procesadas
+2025-04-14 21:29:03,837 - INFO - Procesando archivo: Algoritmo-vinculacion-relatos-denuncias.pdf
+2025-04-14 21:29:03,837 - INFO - Procesando archivo: Algoritmo-vinculacion-relatos-denuncias.pdf
+2025-04-14 21:29:03,839 - INFO -   - Total de páginas: 10
+2025-04-14 21:29:04,007 - INFO -   - Procesadas 10/10 páginas
+2025-04-14 21:29:04,007 - INFO -   - Completado: 10 páginas procesadas
+2025-04-14 21:29:04,008 - INFO - Procesando archivo: Analisis-datos-big-data.pdf
+2025-04-14 21:29:04,008 - INFO - Procesando archivo: Analisis-datos-big-data.pdf
+2025-04-14 21:29:04,009 - INFO -   - Total de páginas: 6
+2025-04-14 21:29:04,119 - INFO -   - Completado: 6 páginas procesadas
+2025-04-14 21:29:04,119 - INFO - Procesando archivo: Analisis-sericio-urgencias.pdf
+2025-04-14 21:29:04,119 - INFO - Procesando archivo: Analisis-sericio-urgencias.pdf
+2025-04-14 21:29:04,123 - INFO -   - Total de páginas: 10
+2025-04-14 21:29:04,272 - INFO -   - Procesadas 10/10 páginas
+2025-04-14 21:29:04,272 - INFO -   - Completado: 10 páginas procesadas
+2025-04-14 21:29:04,281 - INFO - Índice invertido guardado en: /Users/jriera/Documents/unju/rain/tp1/fichero-invertido-frecuencia/inverted_index.json
+2025-04-14 21:29:04,281 - INFO - Proceso completado. Índice guardado en /Users/jriera/Documents/unju/rain/tp1/fichero-invertido-frecuencia/inverted_index.json
+2025-04-14 21:29:04,281 - INFO - Logs guardados en /Users/jriera/Documents/unju/rain/tp1/fichero-invertido-frecuencia/processing_logs.txt
