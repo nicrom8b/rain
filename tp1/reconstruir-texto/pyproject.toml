@@ -1,0 +1,27 @@
+[project]
+name = "text-reconstructor"
+version = "1.0.0"
+description = "Reconstructor de texto a partir de índices invertidos"
+authors = [
+    {name = "Tu Nombre", email = "tu.email@ejemplo.com"}
+]
+dependencies = []
+requires-python = ">=3.11"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.black]
+line-length = 88
+target-version = ['py311']
+include = '\.pyi?$'
+
+[tool.ruff]
+line-length = 88
+target-version = "py311"
+select = ["E", "F", "B", "I"]
+ignore = []
+
+[tool.ruff.isort]
+known-first-party = ["text_reconstructor"] 

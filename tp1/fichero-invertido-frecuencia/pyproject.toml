@@ -1,0 +1,30 @@
+[project]
+name = "inverted-index-frequency"
+version = "1.0.0"
+description = "Generador de índice invertido de frecuencias a partir de documentos PDF"
+authors = [
+    {name = "Tu Nombre", email = "tu.email@ejemplo.com"}
+]
+dependencies = [
+    "PyPDF2>=3.0.0",
+    "requests>=2.31.0"
+]
+requires-python = ">=3.11"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.black]
+line-length = 88
+target-version = ['py311']
+include = '\.pyi?$'
+
+[tool.ruff]
+line-length = 88
+target-version = "py311"
+select = ["E", "F", "B", "I"]
+ignore = []
+
+[tool.ruff.isort]
+known-first-party = ["inverted_index"] 

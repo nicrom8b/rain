@@ -1,0 +1,123 @@
+2025-04-14 23:42:46,772 - INFO - Buscando PDFs en: /Users/jriera/Documents/unju/rain/tp1/pdf
+2025-04-14 23:42:46,772 - INFO - Los logs se guardarán en: /Users/jriera/Documents/unju/rain/tp1/fichero-invertido-frecuencia/processing_logs.txt
+2025-04-14 23:42:46,773 - INFO - El índice invertido se guardará en: /Users/jriera/Documents/unju/rain/tp1/fichero-invertido-frecuencia/inverted_index.json
+2025-04-14 23:42:46,773 - INFO - Procesando archivo: Accesibilidad-web.pdf
+2025-04-14 23:42:46,773 - INFO - Procesando archivo: Accesibilidad-web.pdf
+2025-04-14 23:42:46,776 - INFO -   - Total de páginas: 10
+2025-04-14 23:42:46,946 - INFO -   - Procesadas 10/10 páginas
+2025-04-14 23:42:46,946 - INFO -   - Completado: 10 páginas procesadas
+2025-04-14 23:42:46,948 - INFO - Texto convertido y puntuación removida
+2025-04-14 23:42:46,948 - INFO - Obteniendo stopwords desde GitHub...
+2025-04-14 23:42:47,279 - INFO - Se obtuvieron 608 stopwords.
+2025-04-14 23:42:47,281 - INFO - Procesamiento completado. 2243 tokens generados
+2025-04-14 23:42:47,284 - INFO - Procesando archivo: Algoritmo-aprendizaje-automatizado.pdf
+2025-04-14 23:42:47,284 - INFO - Procesando archivo: Algoritmo-aprendizaje-automatizado.pdf
+2025-04-14 23:42:47,291 - INFO -   - Total de páginas: 5
+2025-04-14 23:42:47,424 - INFO -   - Completado: 5 páginas procesadas
+2025-04-14 23:42:47,425 - INFO - Texto convertido y puntuación removida
+2025-04-14 23:42:47,425 - INFO - Procesamiento completado. 985 tokens generados
+2025-04-14 23:42:47,426 - INFO - Procesando archivo: Algoritmo-vinculacion-relatos-denuncias.pdf
+2025-04-14 23:42:47,426 - INFO - Procesando archivo: Algoritmo-vinculacion-relatos-denuncias.pdf
+2025-04-14 23:42:47,430 - INFO -   - Total de páginas: 10
+2025-04-14 23:42:47,603 - INFO -   - Procesadas 10/10 páginas
+2025-04-14 23:42:47,603 - INFO -   - Completado: 10 páginas procesadas
+2025-04-14 23:42:47,604 - INFO - Texto convertido y puntuación removida
+2025-04-14 23:42:47,605 - INFO - Procesamiento completado. 2027 tokens generados
+2025-04-14 23:42:47,606 - INFO - Procesando archivo: Analisis-datos-big-data.pdf
+2025-04-14 23:42:47,606 - INFO - Procesando archivo: Analisis-datos-big-data.pdf
+2025-04-14 23:42:47,609 - INFO -   - Total de páginas: 6
+2025-04-14 23:42:47,722 - INFO -   - Completado: 6 páginas procesadas
+2025-04-14 23:42:47,723 - INFO - Texto convertido y puntuación removida
+2025-04-14 23:42:47,723 - INFO - Procesamiento completado. 1313 tokens generados
+2025-04-14 23:42:47,724 - INFO - Procesando archivo: Analisis-sericio-urgencias.pdf
+2025-04-14 23:42:47,724 - INFO - Procesando archivo: Analisis-sericio-urgencias.pdf
+2025-04-14 23:42:47,731 - INFO -   - Total de páginas: 10
+2025-04-14 23:42:47,877 - INFO -   - Procesadas 10/10 páginas
+2025-04-14 23:42:47,877 - INFO -   - Completado: 10 páginas procesadas
+2025-04-14 23:42:47,878 - INFO - Texto convertido y puntuación removida
+2025-04-14 23:42:47,878 - INFO - Procesamiento completado. 1777 tokens generados
+2025-04-14 23:42:47,886 - INFO - Índice invertido guardado en: /Users/jriera/Documents/unju/rain/tp1/fichero-invertido-frecuencia/inverted_index.json
+2025-04-14 23:42:47,886 - INFO - Proceso completado. Índice guardado en /Users/jriera/Documents/unju/rain/tp1/fichero-invertido-frecuencia/inverted_index.json
+2025-04-14 23:42:47,886 - INFO - Logs guardados en /Users/jriera/Documents/unju/rain/tp1/fichero-invertido-frecuencia/processing_logs.txt
+2025-04-14 23:45:32,598 - INFO - Buscando PDFs en: /Users/jriera/Documents/unju/rain/tp1/pdf
+2025-04-14 23:45:32,598 - INFO - Los logs se guardarán en: /Users/jriera/Documents/unju/rain/tp1/fichero-invertido-frecuencia/processing_logs.txt
+2025-04-14 23:45:32,598 - INFO - El índice invertido se guardará en: /Users/jriera/Documents/unju/rain/tp1/fichero-invertido-frecuencia/inverted_index.json
+2025-04-14 23:45:32,599 - INFO - Procesando archivo: Accesibilidad-web.pdf
+2025-04-14 23:45:32,599 - INFO - Procesando archivo: Accesibilidad-web.pdf
+2025-04-14 23:45:32,602 - INFO -   - Total de páginas: 10
+2025-04-14 23:45:32,774 - INFO -   - Procesadas 10/10 páginas
+2025-04-14 23:45:32,774 - INFO -   - Completado: 10 páginas procesadas
+2025-04-14 23:45:32,775 - INFO - Texto convertido y puntuación removida
+2025-04-14 23:45:32,775 - INFO - Obteniendo stopwords desde GitHub...
+2025-04-14 23:45:32,885 - INFO - Se obtuvieron 608 stopwords.
+2025-04-14 23:45:32,887 - INFO - Procesamiento completado. 2243 tokens generados
+2025-04-14 23:45:32,889 - INFO - Procesando archivo: Algoritmo-aprendizaje-automatizado.pdf
+2025-04-14 23:45:32,889 - INFO - Procesando archivo: Algoritmo-aprendizaje-automatizado.pdf
+2025-04-14 23:45:32,893 - INFO -   - Total de páginas: 5
+2025-04-14 23:45:33,002 - INFO -   - Completado: 5 páginas procesadas
+2025-04-14 23:45:33,003 - INFO - Texto convertido y puntuación removida
+2025-04-14 23:45:33,003 - INFO - Procesamiento completado. 985 tokens generados
+2025-04-14 23:45:33,004 - INFO - Procesando archivo: Algoritmo-vinculacion-relatos-denuncias.pdf
+2025-04-14 23:45:33,004 - INFO - Procesando archivo: Algoritmo-vinculacion-relatos-denuncias.pdf
+2025-04-14 23:45:33,008 - INFO -   - Total de páginas: 10
+2025-04-14 23:45:33,192 - INFO -   - Procesadas 10/10 páginas
+2025-04-14 23:45:33,193 - INFO -   - Completado: 10 páginas procesadas
+2025-04-14 23:45:33,195 - INFO - Texto convertido y puntuación removida
+2025-04-14 23:45:33,195 - INFO - Procesamiento completado. 2027 tokens generados
+2025-04-14 23:45:33,196 - INFO - Procesando archivo: Analisis-datos-big-data.pdf
+2025-04-14 23:45:33,197 - INFO - Procesando archivo: Analisis-datos-big-data.pdf
+2025-04-14 23:45:33,207 - INFO -   - Total de páginas: 6
+2025-04-14 23:45:33,323 - INFO -   - Completado: 6 páginas procesadas
+2025-04-14 23:45:33,323 - INFO - Texto convertido y puntuación removida
+2025-04-14 23:45:33,324 - INFO - Procesamiento completado. 1313 tokens generados
+2025-04-14 23:45:33,324 - INFO - Procesando archivo: Analisis-sericio-urgencias.pdf
+2025-04-14 23:45:33,324 - INFO - Procesando archivo: Analisis-sericio-urgencias.pdf
+2025-04-14 23:45:33,331 - INFO -   - Total de páginas: 10
+2025-04-14 23:45:33,483 - INFO -   - Procesadas 10/10 páginas
+2025-04-14 23:45:33,483 - INFO -   - Completado: 10 páginas procesadas
+2025-04-14 23:45:33,484 - INFO - Texto convertido y puntuación removida
+2025-04-14 23:45:33,484 - INFO - Procesamiento completado. 1777 tokens generados
+2025-04-14 23:45:33,496 - INFO - Índice invertido guardado en: /Users/jriera/Documents/unju/rain/tp1/fichero-invertido-frecuencia/inverted_index.json
+2025-04-14 23:45:33,496 - INFO - Proceso completado. Índice guardado en /Users/jriera/Documents/unju/rain/tp1/fichero-invertido-frecuencia/inverted_index.json
+2025-04-14 23:45:33,496 - INFO - Logs guardados en /Users/jriera/Documents/unju/rain/tp1/fichero-invertido-frecuencia/processing_logs.txt
+2025-04-14 23:46:53,005 - INFO - Buscando PDFs en: /Users/jriera/Documents/unju/rain/tp1/pdf
+2025-04-14 23:46:53,005 - INFO - Los logs se guardarán en: /Users/jriera/Documents/unju/rain/tp1/fichero-invertido-frecuencia/processing_logs.txt
+2025-04-14 23:46:53,005 - INFO - El índice invertido se guardará en: /Users/jriera/Documents/unju/rain/tp1/fichero-invertido-frecuencia/inverted_index.json
+2025-04-14 23:46:53,005 - INFO - Procesando archivo: Accesibilidad-web.pdf
+2025-04-14 23:46:53,005 - INFO - Procesando archivo: Accesibilidad-web.pdf
+2025-04-14 23:46:53,009 - INFO -   - Total de páginas: 10
+2025-04-14 23:46:53,180 - INFO -   - Procesadas 10/10 páginas
+2025-04-14 23:46:53,180 - INFO -   - Completado: 10 páginas procesadas
+2025-04-14 23:46:53,181 - INFO - Texto convertido y puntuación removida
+2025-04-14 23:46:53,181 - INFO - Obteniendo stopwords desde GitHub...
+2025-04-14 23:46:53,292 - INFO - Se obtuvieron 608 stopwords.
+2025-04-14 23:46:53,293 - INFO - Procesamiento completado. 2243 tokens generados
+2025-04-14 23:46:53,295 - INFO - Procesando archivo: Algoritmo-aprendizaje-automatizado.pdf
+2025-04-14 23:46:53,295 - INFO - Procesando archivo: Algoritmo-aprendizaje-automatizado.pdf
+2025-04-14 23:46:53,299 - INFO -   - Total de páginas: 5
+2025-04-14 23:46:53,410 - INFO -   - Completado: 5 páginas procesadas
+2025-04-14 23:46:53,411 - INFO - Texto convertido y puntuación removida
+2025-04-14 23:46:53,411 - INFO - Procesamiento completado. 985 tokens generados
+2025-04-14 23:46:53,412 - INFO - Procesando archivo: Algoritmo-vinculacion-relatos-denuncias.pdf
+2025-04-14 23:46:53,412 - INFO - Procesando archivo: Algoritmo-vinculacion-relatos-denuncias.pdf
+2025-04-14 23:46:53,416 - INFO -   - Total de páginas: 10
+2025-04-14 23:46:53,583 - INFO -   - Procesadas 10/10 páginas
+2025-04-14 23:46:53,583 - INFO -   - Completado: 10 páginas procesadas
+2025-04-14 23:46:53,584 - INFO - Texto convertido y puntuación removida
+2025-04-14 23:46:53,585 - INFO - Procesamiento completado. 2027 tokens generados
+2025-04-14 23:46:53,586 - INFO - Procesando archivo: Analisis-datos-big-data.pdf
+2025-04-14 23:46:53,586 - INFO - Procesando archivo: Analisis-datos-big-data.pdf
+2025-04-14 23:46:53,589 - INFO -   - Total de páginas: 6
+2025-04-14 23:46:53,699 - INFO -   - Completado: 6 páginas procesadas
+2025-04-14 23:46:53,700 - INFO - Texto convertido y puntuación removida
+2025-04-14 23:46:53,700 - INFO - Procesamiento completado. 1313 tokens generados
+2025-04-14 23:46:53,701 - INFO - Procesando archivo: Analisis-sericio-urgencias.pdf
+2025-04-14 23:46:53,701 - INFO - Procesando archivo: Analisis-sericio-urgencias.pdf
+2025-04-14 23:46:53,707 - INFO -   - Total de páginas: 10
+2025-04-14 23:46:53,857 - INFO -   - Procesadas 10/10 páginas
+2025-04-14 23:46:53,857 - INFO -   - Completado: 10 páginas procesadas
+2025-04-14 23:46:53,858 - INFO - Texto convertido y puntuación removida
+2025-04-14 23:46:53,858 - INFO - Procesamiento completado. 1777 tokens generados
+2025-04-14 23:46:53,867 - INFO - Índice invertido guardado en: /Users/jriera/Documents/unju/rain/tp1/fichero-invertido-frecuencia/inverted_index.json
+2025-04-14 23:46:53,867 - INFO - Proceso completado. Índice guardado en /Users/jriera/Documents/unju/rain/tp1/fichero-invertido-frecuencia/inverted_index.json
+2025-04-14 23:46:53,867 - INFO - Logs guardados en /Users/jriera/Documents/unju/rain/tp1/fichero-invertido-frecuencia/processing_logs.txt
