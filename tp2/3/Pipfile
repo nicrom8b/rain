@@ -1,0 +1,18 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+nltk = "*"
+matplotlib = "*"
+pandas = "*"
+tabulate = "*"
+spacy = "*"
+es-core-news-sm = {file = "https://github.com/explosion/spacy-models/releases/download/es_core_news_sm-3.7.0/es_core_news_sm-3.7.0.tar.gz"}
+stemming = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.9"
