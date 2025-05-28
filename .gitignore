@@ -3,6 +3,41 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Java & Maven
+*.class
+*.jar
+*.war
+*.ear
+hs_err_pid*
+replay_pid*
+*.log
+*.javadoc
+*.ctxt
+*.iml
+*.ipr
+*.iws
+.idea/
+*.project
+*.classpath
+*.settings/
+*.prefs
+.DS_Store
+# Maven target directory
+/target/
+# Eclipse
+.settings/
+.project
+.classpath
+# NetBeans
+/nbproject/private/
+/build/
+/dist/
+/nbbuild/
+/nbdist/
+/.nb-gradle/
+# VS Code
+.vscode/
+
 # C extensions
 *.so
 
